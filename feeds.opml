@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Politics and Governance" text="Politics and Governance">
+      <outline text="Times of India" title="Times of India" type="rss" 
+            xmlUrl="https://timesofindia.indiatimes.com/rssfeedmostrecent.cms" htmlUrl="https://timesofindia.indiatimes.com" entryContent="2"/>
+      <outline text="downtoearth" title="downtoearth" type="rss" 
+            xmlUrl="https://www.downtoearth.org.in/stories.rss" htmlUrl="https://www.downtoearth.org.in" entryContent="2"/>
+      <outline text="Press Information Bureau " title="Press Information Bureau " type="rss" 
+            xmlUrl="https://www.pib.gov.in/RssMain.aspx?ModId=6&amp;Lang=1&amp;Regid=6&amp;reg=6&amp;lang=1" entryContent="2"/>
+      <outline text="India News | Latest India News Today &#38; Real-time News from India, India Breaking News" title="India News | Latest India News Today &#38; Real-time News from India, India Breaking News" type="rss" 
+            xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" htmlUrl="https://timesofindia.indiatimes.com/india" entryContent="2"/>
+      <outline text="Times of India" title="Times of India" type="rss" 
+            xmlUrl="https://timesofindia.indiatimes.com/rssfeedmostshared.cms" htmlUrl="https://timesofindia.indiatimes.com"/>
+      <outline text="Times of India" title="Times of India" type="rss" 
+            xmlUrl="https://timesofindia.indiatimes.com/rssfeedmostread.cms" htmlUrl="https://timesofindia.indiatimes.com"/>
+      <outline text="Ahmedabad News, Latest Ahmedabad News Headlines &#38; Live Updates - Times of India" title="Ahmedabad News, Latest Ahmedabad News Headlines &#38; Live Updates - Times of India" type="rss" 
+            xmlUrl="http://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms" htmlUrl="https://timesofindia.indiatimes.com/city/ahmedabad"/>
+  </outline>
+  <outline title="Alerts" text="Alerts">
+      <outline text="All India: CAP Disaster Alert Feeds" title="All India: CAP Disaster Alert Feeds" type="rss" 
+            xmlUrl="https://sachet.ndma.gov.in/cap_public_website/rss/rss_india.xml" htmlUrl="https://sachet.ndma.gov.in/cap_public_website/rss/rss_india.xml" entryContent="2"/>
+      <outline text="Gujarat: CAP Disaster Alert Feeds" title="Gujarat: CAP Disaster Alert Feeds" type="rss" 
+            xmlUrl="https://sachet.ndma.gov.in/cap_public_website/rss/rss_gujarat.xml" htmlUrl="https://sachet.ndma.gov.in/cap_public_website/rss/rss_gujarat.xml" entryContent="2"/>
+  </outline>
+  <outline title="Finance" text="Finance">
+      <outline text="Press Release" title="Press Release" type="rss" 
+            xmlUrl="https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss" htmlUrl="https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss"/>
+      <outline text="Circular" title="Circular" type="rss" 
+            xmlUrl="https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss" htmlUrl="https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss" entryContent="2"/>
+  </outline>
+  <outline title="Technology" text="Technology">
+      <outline text="Ahead of AI" title="Ahead of AI" type="rss" 
+            xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com" entryContent="2"/>
+      <outline text="Anthropic Engineering Blog" title="Anthropic Engineering Blog" type="rss" 
+            xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" htmlUrl="https://www.anthropic.com/engineering" entryContent="2"/>
+      <outline text="Anthropic Research" title="Anthropic Research" type="rss" 
+            xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" htmlUrl="https://www.anthropic.com/research" entryContent="2"/>
+      <outline text="Claude Code changelog" title="Claude Code changelog" type="rss" 
+            xmlUrl="https://code.claude.com/docs/en/changelog/rss.xml" htmlUrl="https://code.claude.com/docs" entryContent="2"/>
+      <outline text="cs.AI updates on arXiv.org" title="cs.AI updates on arXiv.org" type="rss" 
+            xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="http://rss.arxiv.org/rss/cs.AI" entryContent="2"/>
+      <outline text="cs.LG updates on arXiv.org" title="cs.LG updates on arXiv.org" type="rss" 
+            xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="http://rss.arxiv.org/rss/cs.LG"/>
+      <outline text="Google DeepMind News" title="Google DeepMind News" type="rss" 
+            xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" entryContent="2"/>
+      <outline text="NVIDIA Technical Blog" title="NVIDIA Technical Blog" type="rss" 
+            xmlUrl="https://developer.nvidia.com/blog/feed/" htmlUrl="https://developer.nvidia.com/blog" entryContent="2"/>
+      <outline text="OpenAI News" title="OpenAI News" type="rss" 
+            xmlUrl="https://openai.com/blog/rss.xml" htmlUrl="https://openai.com/news" entryContent="2"/>
+      <outline text="ServeTheHome" title="ServeTheHome" type="rss" 
+            xmlUrl="https://www.servethehome.com/feed/" htmlUrl="https://www.servethehome.com/" entryContent="2"/>
+  </outline>
+  <outline title="Cybersecurity" text="Cybersecurity">
+      <outline text="Schneier on Security" title="Schneier on Security" type="rss" 
+            xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com/" entryContent="2"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" 
+            xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+  </outline>
+  <outline title="Learning" text="Learning">
+      <outline text="Easy Japanese: Conversation Lessons | NHK WORLD-JAPAN" title="Easy Japanese: Conversation Lessons | NHK WORLD-JAPAN" type="rss" 
+            xmlUrl="https://www3.nhk.or.jp/nhkworld/lesson/en/rss/podcast.xml" htmlUrl="https://www3.nhk.or.jp/nhkworld/lesson/en/" entryContent="2"/>
+      <outline text="Tofugu" title="Tofugu" type="rss" 
+            xmlUrl="https://www.tofugu.com/feed.xml" entryContent="2"/>
+  </outline>
+  <outline title="Jobs" text="Jobs">
+      <outline text="We Work Remotely: Remote jobs in design, programming, marketing and more" title="We Work Remotely: Remote jobs in design, programming, marketing and more" type="rss" 
+            xmlUrl="https://weworkremotely.com/categories/remote-programming-jobs.rss" htmlUrl="https://weworkremotely.com/categories/remote-programming-jobs.rss" entryContent="2"/>
+      <outline text="We Work Remotely: Remote jobs in design, programming, marketing and more" title="We Work Remotely: Remote jobs in design, programming, marketing and more" type="rss" 
+            xmlUrl="https://weworkremotely.com/remote-jobs.rss" htmlUrl="https://weworkremotely.com/remote-jobs.rss" entryContent="2"/>
+  </outline>
+</body>
+</opml>

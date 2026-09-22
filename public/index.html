@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Daily Dispatch</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="sheet">
+    <header class="masthead">
+      <div class="ear ear-left" id="ear-left"></div>
+      <div class="nameplate">
+        <h1 class="title">The Daily Dispatch</h1>
+        <div class="motto">“All the News That’s Fit to Feed”</div>
+      </div>
+      <div class="ear ear-right" id="ear-right"></div>
+    </header>
+    <div class="dateline" id="dateline"></div>
+    <nav class="sections" id="nav"></nav>
+
+    <main id="page">
+      <div class="presses">
+        <div class="presses-title">Stop the Presses!</div>
+        <div class="presses-sub">Setting type from the wire services…</div>
+        <div class="presses-bar"><span id="progress"></span></div>
+        <div class="presses-count" id="progress-text"></div>
+      </div>
+    </main>
+
+    <footer class="colophon" id="colophon"></footer>
+  </div>
+
+  <div class="reader" id="reader" hidden>
+    <div class="reader-backdrop" data-close></div>
+    <article class="clipping" role="dialog" aria-modal="true" aria-labelledby="reader-headline">
+      <button class="clipping-close" data-close aria-label="Close">×</button>
+      <div id="reader-body"></div>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+# systemd user service: keeps The Daily Dispatch running in the background.
+# Install: see "Hosting it on your own machine" in README.md
+[Unit]
+Description=The Daily Dispatch (RSS newspaper)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+WorkingDirectory=%h/Documents/gitfiles/myNewspaper
+ExecStart=/usr/bin/env node server.js
+Environment=PORT=8080
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,9 @@
+services:
+  newspaper:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      # Edit feeds.opml on the host; the server picks up changes automatically.
+      - ./feeds.opml:/app/feeds.opml:ro
+    restart: unless-stopped
