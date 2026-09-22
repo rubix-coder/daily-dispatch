@@ -2,6 +2,8 @@
 
 A vintage broadsheet-style newspaper, in a colour e-ink look, built from the RSS/Atom feeds listed in an OPML file.
 
+![The Classifieds page of The Daily Dispatch: a blackletter masthead above a grid of boxed remote-job ads](docs/classifieds.png)
+
 ## Quick start
 
 You need **Node.js 18 or newer** ([download](https://nodejs.org)). There are no packages to install.
